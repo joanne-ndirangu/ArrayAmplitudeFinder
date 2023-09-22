@@ -1,3 +1,4 @@
+# ARRAY AMPLITUDE FINDER
 Task description
 A non-empty array A consisting of N integers is given. The amplitude of this array is defined as the largest possible difference between two of its elements, i.e.:
 

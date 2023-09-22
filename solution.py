@@ -1,7 +1,7 @@
 def solution(A):
-    if not A:
+    if A == None or len(A) <= 1:
         return 0
-    
+
     P = max(A)
     Q = min(A)
 

@@ -1,0 +1,4 @@
+Initialize two variables P and Q with P being the max value and Q the min value in an array A.
+Specify the range for integer N in the array which is [1..1,000,000]
+Loop through the array to check if the range of each element is [0..5,000,000]
+Calculate and return P - Q
